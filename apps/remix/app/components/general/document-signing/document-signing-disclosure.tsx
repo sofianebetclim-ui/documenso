@@ -10,9 +10,8 @@ export const DocumentSigningDisclosure = ({ className, ...props }: DocumentSigni
   return (
     <p className={cn('text-muted-foreground text-xs', className)} {...props}>
       <Trans>
-        By proceeding with your electronic signature, you acknowledge and consent that it will be used to sign the given
-        document and holds the same legal validity as a handwritten signature. By completing the electronic signing
-        process, you affirm your understanding and acceptance of these conditions.
+      By proceeding with your electronic signature, you commit with sincerity and good faith that it will be used to sign the document, acknowledging its binding nature. 
+      By completing this process, you affirm your responsibility and commitment to fulfill the obligations established by this act, in accordance with the principles of justice and loyalty.
       </Trans>
       <span className="mt-2 block">
         <Trans>
