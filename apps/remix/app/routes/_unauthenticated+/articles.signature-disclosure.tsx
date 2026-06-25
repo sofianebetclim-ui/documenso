@@ -16,7 +16,7 @@ export default function SignatureDisclosure() {
   </h2>
   <p>
     <Trans>
-      Thank you for using Documenso. By choosing to use this platform, you commit with sincerity and good faith 
+      Thank you for using our platform. By choosing to use this platform, you commit with sincerity and good faith 
       to honor the terms and conditions outlined below, acknowledging the binding nature of your signature.
     </Trans>
   </p>
